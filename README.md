@@ -8,6 +8,7 @@
   Next to "About", add description & tags; disable releases, packages, & environments.
   Add your open source license, GitHub uses the MIT license.
 -->
+### First issue created!
 
 # Code with GitHub Codespaces and Visual Studio Code
 
